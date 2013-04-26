@@ -2,6 +2,7 @@
 
 Experimental grunt application template
 
+* * * 
 ## Prerequisites
 
 ### Node
@@ -11,6 +12,7 @@ Experimental grunt application template
 ```
 npm install -g bower
 ```
+
 
 ## Get Started
 
