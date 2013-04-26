@@ -1,0 +1,16 @@
+{
+  "name": "grunt-boilercake",
+  "version": "0.1.0",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-browserify": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-jade": "*",
+    "express": "*"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "*"
+  }
+}
